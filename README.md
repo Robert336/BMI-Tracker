@@ -1,2 +1,6 @@
 # BMI-Tracker
 Tracks BMI of multiple users using VBA, MS Excel, and MS Access
+
+The application’s main purpose is be able to give the user the ability to check their BMI (Body Weight Mass Index) and be able to track their weight and height in order to determine if they are healthy. The main purpose I chose to make this application is so that I can use it for myself to track my BMI and get some more tracking data to help analyze eating habits and stay healthy. As personally I think it is very important to keep a healthy body in the sense of weight and what kind of food I eat, especially since COVID-19 as having a strong immune system can save your life.
+
+As far as the functionality of my BMI application, its connected to a database stored in the same folder as the Excel file in which it is ran from. This is used to be able to store user’s data, using this data the application can automatically calculate that user’s BMI seen in the main menu form. The program also features the abilities to create a graph output to visualize the data, and the functionality to output said graph to a Word document. On top of this the User can update their height and weight as of the current date. There is also a simple BMI calculator on the Main sheet, as well as a code generated BMI table on the “Table” sheet in the workbook.
